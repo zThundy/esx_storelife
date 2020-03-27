@@ -1,0 +1,2 @@
+ALTER TABLE `users`
+	ADD `vita` INT(11) NOT NULL DEFAULT '100';
